@@ -14,7 +14,7 @@ In 2021, I made 24 contributions and modified 0 lines of code. Check out my GitH
 - MySQL
 - MongoDB
 - Docker
-- Codeigniter
+- CodeIgniter
 
 <p>
     <img alt="PHP"
@@ -32,7 +32,7 @@ In 2021, I made 24 contributions and modified 0 lines of code. Check out my GitH
     <img alt="Golang"
          src="https://img.shields.io/badge/-Docker-5849BE?style=flat-square&logo=Docker&logoColor=white"/>
     <img alt="Codeigniter"
-         src="https://img.shields.io/badge/-Codeigniter-5849BE?style=flat-square&logo=Codeigniter&logoColor=white"/>
+         src="https://img.shields.io/badge/-CodeIgniter-5849BE?style=flat-square&logo=CodeIgniter&logoColor=white"/>
 </p>
 
 ### 💬Contact Me
