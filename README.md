@@ -13,23 +13,26 @@ In 2021, I made 24 contributions and modified 0 lines of code. Check out my GitH
 - Shell
 - MySQL
 - MongoDB
-- Redis
+- Docker
+- Codeigniter
 
 <p>
     <img alt="PHP"
          src="https://img.shields.io/badge/-PHP-45b8d8?style=flat-square&logo=PHP&logoColor=white"/>
-    <img alt="Kotlin"
+    <img alt="Go"
          src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=Go&logoColor=white"/>
-    <img alt="Docker"
+    <img alt="Vue"
          src="https://img.shields.io/badge/-Vue-46a2f1?style=flat-square&logo=Vue&logoColor=white"/>
-    <img alt="github actions"
+    <img alt="JavaScript"
          src="https://img.shields.io/badge/-JavaScript-2088FF?style=flat-square&logo=JavaScript&logoColor=white"/>
-    <img alt="Aliyun"
+    <img alt="Qt"
          src="https://img.shields.io/badge/-Qt-1a73e8?style=flat-square&logo=Qt&logoColor=white"/>
-    <img alt="TypeScript"
+    <img alt="MySQL"
          src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white"/>
     <img alt="Golang"
          src="https://img.shields.io/badge/-Golang-5849BE?style=flat-square&logo=Go&logoColor=white"/>
+    <img alt="Codeigniter"
+         src="https://img.shields.io/badge/-Codeigniter-5849BE?style=flat-square&logo=Codeigniter&logoColor=white"/>
 </p>
 
 ### 💬Contact Me
