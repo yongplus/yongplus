@@ -22,7 +22,7 @@ In 2021, I made 24 contributions and modified 0 lines of code. Check out my GitH
     <img alt="Go"
          src="https://img.shields.io/badge/-Go-45b8d8?style=flat-square&logo=Go&logoColor=white"/>
     <img alt="Vue"
-         src="https://img.shields.io/badge/-Vue-46a2f1?style=flat-square&logo=Vue&logoColor=white"/>
+         src="https://img.shields.io/badge/-Vue-46a2f1?style=flat-square&logo=VUE&logoColor=white"/>
     <img alt="JavaScript"
          src="https://img.shields.io/badge/-JavaScript-2088FF?style=flat-square&logo=JavaScript&logoColor=white"/>
     <img alt="Qt"
