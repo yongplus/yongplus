@@ -37,7 +37,7 @@ In 2021, I made 24 contributions and modified 0 lines of code. Check out my GitH
 
 ### 💬Contact Me
 
-- Gmail: yongplus@gmail.com
+- Gmail: yongplus@foxmail.com
 
 
 ![plex's github stats](https://github-readme-stats.vercel.app/api?username=yongplus&show_icons=true&count_private=true&theme=vue-dark)
