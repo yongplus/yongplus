@@ -30,7 +30,7 @@ In 2021, I made 24 contributions and modified 0 lines of code. Check out my GitH
     <img alt="MySQL"
          src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=MySQL&logoColor=white"/>
     <img alt="Golang"
-         src="https://img.shields.io/badge/-Golang-5849BE?style=flat-square&logo=Go&logoColor=white"/>
+         src="https://img.shields.io/badge/-Docker-5849BE?style=flat-square&logo=Docker&logoColor=white"/>
     <img alt="Codeigniter"
          src="https://img.shields.io/badge/-Codeigniter-5849BE?style=flat-square&logo=Codeigniter&logoColor=white"/>
 </p>
